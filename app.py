@@ -12,7 +12,7 @@ app = Flask(__name__)
 def front_page():
     return render_template('Input_Page.html')
 
-@app.route('/predict', methods= ['POST'])
+@app.route('/predict', methods= ['POST', 'GET'])
 def predict():
     if request.method == 'POST':
         pg = request.form['pregnancies']
