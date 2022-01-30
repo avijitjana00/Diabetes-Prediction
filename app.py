@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 Pkl_Filename = 'dp.pkl'
-classifier = pickle.load(open(Pkl_Filename, 'rb'))
+classifier = pickle.load(open(Pkl_Filename,'rb'))
 
 
 app = Flask(__name__)
