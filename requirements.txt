@@ -8,3 +8,4 @@ selenium
 urllib3==1.25.11
 webdriver-manager==3.3.0
 streamlit
+scikit-learn==1.0.2
