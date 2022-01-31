@@ -1,16 +1,16 @@
-##Diabetes-Prediction
+## Diabetes-Prediction
 Using different diferent Machine Learning techniques like Random Rorest, Decision Tree, XG-Boost classifier, Support Vector Machine helps to predict the diabetes.
 
-##Dataset link 
+## Dataset link 
 https://www.kaggle.com/uciml/pima-indians-diabetes-database
  
-##See webapi link 
+## See webapi link 
 click link - https://diabetes-buddy.herokuapp.com/
 
-##Installations
+## Installations
 Use the package manager pip to install all python packages on your system which is listed in requirements.txt file.
 
-##Process of Running app
+## Process of Running app
 1. open pycharm or any python supported  IDE.
 2. go to file location where you stored the project file.
 3. open app.py file
